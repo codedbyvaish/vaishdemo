@@ -1,3 +1,3 @@
 # vaishdemo
 just a demo repo.
-Author - Vaishnavi Yadav
+Author - Vaishnavi singh Yadav
